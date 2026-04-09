@@ -1,0 +1,722 @@
+[
+  {
+    "id": "fault-001",
+    "label": "Fault 01",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_001.png",
+    "source_split": "test",
+    "source_name": "000096.png"
+  },
+  {
+    "id": "fault-002",
+    "label": "Fault 02",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_002.png",
+    "source_split": "test",
+    "source_name": "000097.png"
+  },
+  {
+    "id": "fault-003",
+    "label": "Fault 03",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_003.png",
+    "source_split": "test",
+    "source_name": "000098.png"
+  },
+  {
+    "id": "fault-004",
+    "label": "Fault 04",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_004.png",
+    "source_split": "test",
+    "source_name": "000099.png"
+  },
+  {
+    "id": "fault-005",
+    "label": "Fault 05",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_005.png",
+    "source_split": "test",
+    "source_name": "000104.png"
+  },
+  {
+    "id": "fault-006",
+    "label": "Fault 06",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_006.png",
+    "source_split": "test",
+    "source_name": "000105.png"
+  },
+  {
+    "id": "fault-007",
+    "label": "Fault 07",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_007.png",
+    "source_split": "test",
+    "source_name": "000106.png"
+  },
+  {
+    "id": "fault-008",
+    "label": "Fault 08",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_008.png",
+    "source_split": "test",
+    "source_name": "000107.png"
+  },
+  {
+    "id": "fault-009",
+    "label": "Fault 09",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_009.png",
+    "source_split": "test",
+    "source_name": "000108.png"
+  },
+  {
+    "id": "fault-010",
+    "label": "Fault 10",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_010.png",
+    "source_split": "test",
+    "source_name": "000109.png"
+  },
+  {
+    "id": "fault-011",
+    "label": "Fault 11",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_011.png",
+    "source_split": "test",
+    "source_name": "000110.png"
+  },
+  {
+    "id": "fault-012",
+    "label": "Fault 12",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_012.png",
+    "source_split": "test",
+    "source_name": "000111.png"
+  },
+  {
+    "id": "fault-013",
+    "label": "Fault 13",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_013.png",
+    "source_split": "test",
+    "source_name": "000112.png"
+  },
+  {
+    "id": "fault-014",
+    "label": "Fault 14",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_014.png",
+    "source_split": "test",
+    "source_name": "000113.png"
+  },
+  {
+    "id": "fault-015",
+    "label": "Fault 15",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_015.png",
+    "source_split": "test",
+    "source_name": "000114.png"
+  },
+  {
+    "id": "fault-016",
+    "label": "Fault 16",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_016.png",
+    "source_split": "test",
+    "source_name": "000115.png"
+  },
+  {
+    "id": "fault-017",
+    "label": "Fault 17",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_017.png",
+    "source_split": "test",
+    "source_name": "000116.png"
+  },
+  {
+    "id": "fault-018",
+    "label": "Fault 18",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_018.png",
+    "source_split": "test",
+    "source_name": "000117.png"
+  },
+  {
+    "id": "fault-019",
+    "label": "Fault 19",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_019.png",
+    "source_split": "test",
+    "source_name": "000118.png"
+  },
+  {
+    "id": "fault-020",
+    "label": "Fault 20",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_020.png",
+    "source_split": "test",
+    "source_name": "000119.png"
+  },
+  {
+    "id": "fault-021",
+    "label": "Fault 21",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_021.png",
+    "source_split": "test",
+    "source_name": "000120.png"
+  },
+  {
+    "id": "fault-022",
+    "label": "Fault 22",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_022.png",
+    "source_split": "test",
+    "source_name": "000121.png"
+  },
+  {
+    "id": "fault-023",
+    "label": "Fault 23",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_023.png",
+    "source_split": "test",
+    "source_name": "000122.png"
+  },
+  {
+    "id": "fault-024",
+    "label": "Fault 24",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_024.png",
+    "source_split": "test",
+    "source_name": "000123.png"
+  },
+  {
+    "id": "fault-025",
+    "label": "Fault 25",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_025.png",
+    "source_split": "test",
+    "source_name": "000128.png"
+  },
+  {
+    "id": "fault-026",
+    "label": "Fault 26",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_026.png",
+    "source_split": "test",
+    "source_name": "000129.png"
+  },
+  {
+    "id": "fault-027",
+    "label": "Fault 27",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_027.png",
+    "source_split": "test",
+    "source_name": "000130.png"
+  },
+  {
+    "id": "fault-028",
+    "label": "Fault 28",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_028.png",
+    "source_split": "test",
+    "source_name": "000131.png"
+  },
+  {
+    "id": "fault-029",
+    "label": "Fault 29",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_029.png",
+    "source_split": "test",
+    "source_name": "000132.png"
+  },
+  {
+    "id": "fault-030",
+    "label": "Fault 30",
+    "category": "fault",
+    "path": "app_assets/sample_inputs/fault_030.png",
+    "source_split": "test",
+    "source_name": "000133.png"
+  },
+  {
+    "id": "good_clean-001",
+    "label": "Good Clean 01",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_001.png",
+    "source_split": "test",
+    "source_name": "004311.png"
+  },
+  {
+    "id": "good_clean-002",
+    "label": "Good Clean 02",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_002.png",
+    "source_split": "test",
+    "source_name": "004312.png"
+  },
+  {
+    "id": "good_clean-003",
+    "label": "Good Clean 03",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_003.png",
+    "source_split": "test",
+    "source_name": "004313.png"
+  },
+  {
+    "id": "good_clean-004",
+    "label": "Good Clean 04",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_004.png",
+    "source_split": "test",
+    "source_name": "004314.png"
+  },
+  {
+    "id": "good_clean-005",
+    "label": "Good Clean 05",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_005.png",
+    "source_split": "test",
+    "source_name": "004315.png"
+  },
+  {
+    "id": "good_clean-006",
+    "label": "Good Clean 06",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_006.png",
+    "source_split": "test",
+    "source_name": "004316.png"
+  },
+  {
+    "id": "good_clean-007",
+    "label": "Good Clean 07",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_007.png",
+    "source_split": "test",
+    "source_name": "004317.png"
+  },
+  {
+    "id": "good_clean-008",
+    "label": "Good Clean 08",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_008.png",
+    "source_split": "test",
+    "source_name": "004318.png"
+  },
+  {
+    "id": "good_clean-009",
+    "label": "Good Clean 09",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_009.png",
+    "source_split": "test",
+    "source_name": "004319.png"
+  },
+  {
+    "id": "good_clean-010",
+    "label": "Good Clean 10",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_010.png",
+    "source_split": "test",
+    "source_name": "004320.png"
+  },
+  {
+    "id": "good_clean-011",
+    "label": "Good Clean 11",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_011.png",
+    "source_split": "test",
+    "source_name": "004321.png"
+  },
+  {
+    "id": "good_clean-012",
+    "label": "Good Clean 12",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_012.png",
+    "source_split": "test",
+    "source_name": "004322.png"
+  },
+  {
+    "id": "good_clean-013",
+    "label": "Good Clean 13",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_013.png",
+    "source_split": "test",
+    "source_name": "004323.png"
+  },
+  {
+    "id": "good_clean-014",
+    "label": "Good Clean 14",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_014.png",
+    "source_split": "test",
+    "source_name": "004324.png"
+  },
+  {
+    "id": "good_clean-015",
+    "label": "Good Clean 15",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_015.png",
+    "source_split": "test",
+    "source_name": "004325.png"
+  },
+  {
+    "id": "good_clean-016",
+    "label": "Good Clean 16",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_016.png",
+    "source_split": "test",
+    "source_name": "004326.png"
+  },
+  {
+    "id": "good_clean-017",
+    "label": "Good Clean 17",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_017.png",
+    "source_split": "test",
+    "source_name": "004327.png"
+  },
+  {
+    "id": "good_clean-018",
+    "label": "Good Clean 18",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_018.png",
+    "source_split": "test",
+    "source_name": "004328.png"
+  },
+  {
+    "id": "good_clean-019",
+    "label": "Good Clean 19",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_019.png",
+    "source_split": "test",
+    "source_name": "004329.png"
+  },
+  {
+    "id": "good_clean-020",
+    "label": "Good Clean 20",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_020.png",
+    "source_split": "test",
+    "source_name": "004330.png"
+  },
+  {
+    "id": "good_clean-021",
+    "label": "Good Clean 21",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_021.png",
+    "source_split": "test",
+    "source_name": "004331.png"
+  },
+  {
+    "id": "good_clean-022",
+    "label": "Good Clean 22",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_022.png",
+    "source_split": "test",
+    "source_name": "004332.png"
+  },
+  {
+    "id": "good_clean-023",
+    "label": "Good Clean 23",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_023.png",
+    "source_split": "test",
+    "source_name": "004333.png"
+  },
+  {
+    "id": "good_clean-024",
+    "label": "Good Clean 24",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_024.png",
+    "source_split": "test",
+    "source_name": "004334.png"
+  },
+  {
+    "id": "good_clean-025",
+    "label": "Good Clean 25",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_025.png",
+    "source_split": "test",
+    "source_name": "004335.png"
+  },
+  {
+    "id": "good_clean-026",
+    "label": "Good Clean 26",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_026.png",
+    "source_split": "test",
+    "source_name": "004336.png"
+  },
+  {
+    "id": "good_clean-027",
+    "label": "Good Clean 27",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_027.png",
+    "source_split": "test",
+    "source_name": "004337.png"
+  },
+  {
+    "id": "good_clean-028",
+    "label": "Good Clean 28",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_028.png",
+    "source_split": "test",
+    "source_name": "004338.png"
+  },
+  {
+    "id": "good_clean-029",
+    "label": "Good Clean 29",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_029.png",
+    "source_split": "test",
+    "source_name": "004339.png"
+  },
+  {
+    "id": "good_clean-030",
+    "label": "Good Clean 30",
+    "category": "good_clean",
+    "path": "app_assets/sample_inputs/good_clean_030.png",
+    "source_split": "test",
+    "source_name": "004340.png"
+  },
+  {
+    "id": "good_stripes-001",
+    "label": "Good Stripes 01",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_001.png",
+    "source_split": "test",
+    "source_name": "006848.png"
+  },
+  {
+    "id": "good_stripes-002",
+    "label": "Good Stripes 02",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_002.png",
+    "source_split": "test",
+    "source_name": "006849.png"
+  },
+  {
+    "id": "good_stripes-003",
+    "label": "Good Stripes 03",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_003.png",
+    "source_split": "test",
+    "source_name": "006850.png"
+  },
+  {
+    "id": "good_stripes-004",
+    "label": "Good Stripes 04",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_004.png",
+    "source_split": "test",
+    "source_name": "006851.png"
+  },
+  {
+    "id": "good_stripes-005",
+    "label": "Good Stripes 05",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_005.png",
+    "source_split": "test",
+    "source_name": "006852.png"
+  },
+  {
+    "id": "good_stripes-006",
+    "label": "Good Stripes 06",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_006.png",
+    "source_split": "test",
+    "source_name": "006853.png"
+  },
+  {
+    "id": "good_stripes-007",
+    "label": "Good Stripes 07",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_007.png",
+    "source_split": "test",
+    "source_name": "006854.png"
+  },
+  {
+    "id": "good_stripes-008",
+    "label": "Good Stripes 08",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_008.png",
+    "source_split": "test",
+    "source_name": "006855.png"
+  },
+  {
+    "id": "good_stripes-009",
+    "label": "Good Stripes 09",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_009.png",
+    "source_split": "test",
+    "source_name": "006856.png"
+  },
+  {
+    "id": "good_stripes-010",
+    "label": "Good Stripes 10",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_010.png",
+    "source_split": "test",
+    "source_name": "006857.png"
+  },
+  {
+    "id": "good_stripes-011",
+    "label": "Good Stripes 11",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_011.png",
+    "source_split": "test",
+    "source_name": "006858.png"
+  },
+  {
+    "id": "good_stripes-012",
+    "label": "Good Stripes 12",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_012.png",
+    "source_split": "test",
+    "source_name": "006859.png"
+  },
+  {
+    "id": "good_stripes-013",
+    "label": "Good Stripes 13",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_013.png",
+    "source_split": "test",
+    "source_name": "006860.png"
+  },
+  {
+    "id": "good_stripes-014",
+    "label": "Good Stripes 14",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_014.png",
+    "source_split": "test",
+    "source_name": "006861.png"
+  },
+  {
+    "id": "good_stripes-015",
+    "label": "Good Stripes 15",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_015.png",
+    "source_split": "test",
+    "source_name": "006862.png"
+  },
+  {
+    "id": "good_stripes-016",
+    "label": "Good Stripes 16",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_016.png",
+    "source_split": "test",
+    "source_name": "006863.png"
+  },
+  {
+    "id": "good_stripes-017",
+    "label": "Good Stripes 17",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_017.png",
+    "source_split": "test",
+    "source_name": "006864.png"
+  },
+  {
+    "id": "good_stripes-018",
+    "label": "Good Stripes 18",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_018.png",
+    "source_split": "test",
+    "source_name": "006865.png"
+  },
+  {
+    "id": "good_stripes-019",
+    "label": "Good Stripes 19",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_019.png",
+    "source_split": "test",
+    "source_name": "006866.png"
+  },
+  {
+    "id": "good_stripes-020",
+    "label": "Good Stripes 20",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_020.png",
+    "source_split": "test",
+    "source_name": "006867.png"
+  },
+  {
+    "id": "good_stripes-021",
+    "label": "Good Stripes 21",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_021.png",
+    "source_split": "test",
+    "source_name": "006868.png"
+  },
+  {
+    "id": "good_stripes-022",
+    "label": "Good Stripes 22",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_022.png",
+    "source_split": "test",
+    "source_name": "006869.png"
+  },
+  {
+    "id": "good_stripes-023",
+    "label": "Good Stripes 23",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_023.png",
+    "source_split": "test",
+    "source_name": "006870.png"
+  },
+  {
+    "id": "good_stripes-024",
+    "label": "Good Stripes 24",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_024.png",
+    "source_split": "test",
+    "source_name": "006871.png"
+  },
+  {
+    "id": "good_stripes-025",
+    "label": "Good Stripes 25",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_025.png",
+    "source_split": "test",
+    "source_name": "006872.png"
+  },
+  {
+    "id": "good_stripes-026",
+    "label": "Good Stripes 26",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_026.png",
+    "source_split": "test",
+    "source_name": "006873.png"
+  },
+  {
+    "id": "good_stripes-027",
+    "label": "Good Stripes 27",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_027.png",
+    "source_split": "test",
+    "source_name": "006874.png"
+  },
+  {
+    "id": "good_stripes-028",
+    "label": "Good Stripes 28",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_028.png",
+    "source_split": "test",
+    "source_name": "006875.png"
+  },
+  {
+    "id": "good_stripes-029",
+    "label": "Good Stripes 29",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_029.png",
+    "source_split": "test",
+    "source_name": "006876.png"
+  },
+  {
+    "id": "good_stripes-030",
+    "label": "Good Stripes 30",
+    "category": "good_stripes",
+    "path": "app_assets/sample_inputs/good_stripes_030.png",
+    "source_split": "test",
+    "source_name": "006877.png"
+  }
+]

@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local runtime / temp
+*.log
+*.tmp
+*.temp
+
+# Large model artifacts
+*.engine
+*.torchscript
+
+# Training / experiment outputs
+runs/
+detect_L1/
+
+# Local datasets and generated demo assets
+SD_YOLO/
+app_assets/sample_inputs/
+
+# Archives
+*.zip
