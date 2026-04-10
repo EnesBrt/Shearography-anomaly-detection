@@ -108,7 +108,13 @@ def get_model() -> YOLO:
 
 @st.cache_data(show_spinner=False)
 def get_samples() -> list[dict]:
-    return json.loads(SAMPLES_PATH.read_text(encoding="utf-8"))
+    samples = json.loads(SAMPLES_PATH.read_text(encoding="utf-8"))
+    valid_samples = []
+    for sample in samples:
+        sample_path = ROOT / sample["path"]
+        if sample_path.exists():
+            valid_samples.append(sample)
+    return valid_samples
 
 
 @st.cache_data(show_spinner=False)
@@ -118,6 +124,13 @@ def read_image_bytes(path: str) -> bytes:
 
 def open_image(data: bytes) -> Image.Image:
     return Image.open(io.BytesIO(data)).convert("RGB")
+
+
+def resolve_sample_image(sample: dict) -> Image.Image | None:
+    sample_path = ROOT / sample["path"]
+    if not sample_path.exists():
+        return None
+    return open_image(read_image_bytes(str(sample_path)))
 
 
 def sample_label(sample: dict) -> str:
@@ -228,8 +241,13 @@ def main() -> None:
             st.caption("Good clean : Image saine")
             st.caption("Good stripes : Image saine avec motifs de déformation")
             st.markdown("<div class='soft-spacer'></div>", unsafe_allow_html=True)
-            meta = st.selectbox("Image test", filtered, format_func=sample_label)
-            image = open_image(read_image_bytes(str(ROOT / meta["path"])))
+            if not filtered:
+                st.warning("Aucune image intégrée disponible pour cette catégorie dans le dépôt.")
+            else:
+                meta = st.selectbox("Image test", filtered, format_func=sample_label)
+                image = resolve_sample_image(meta)
+                if image is None:
+                    st.warning("L'image sélectionnée est absente du dépôt. Téléversez une image ou ajoutez les assets manquants.")
         else:
             upload = st.file_uploader(
                 "Televersez une image PNG / JPG / JPEG", type=["png", "jpg", "jpeg"]

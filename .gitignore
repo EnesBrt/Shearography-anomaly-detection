@@ -42,7 +42,6 @@ detect_L1/
 
 # Local datasets and generated demo assets
 SD_YOLO/
-app_assets/sample_inputs/
 
 # Archives
 *.zip
