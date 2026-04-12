@@ -18,6 +18,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Verify LFS assets are present
+        run: |
+          git lfs version
+          test -s detect_L2/train/weights/best.onnx
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('detect_L2/train/weights/best.onnx')
+          head = p.read_text(errors='ignore')[:64]
+          assert not head.startswith('version https://git-lfs.github.com/spec/v1'), 'best.onnx is still an LFS pointer'
+          print('best.onnx bytes:', p.stat().st_size)
+          PY
 
       - name: Set up Python version
         uses: actions/setup-python@v5
